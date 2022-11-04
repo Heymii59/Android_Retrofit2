@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+
+    <string name="item_address">서울특별시 중구 을지로 39길 29</string>
+    <string name="item_center_name">코로나19 중앙 예방접종센터</string>
+    <string name="item_facility_name">국립중앙의료원 D동</string>
+    <string name="item_lat">37.567817</string>
+    <string name="item_lng">127.004501</string>
+    <string name="item_org">국립중앙의료원</string>
+    <string name="item_phone_number">02-2260-7114</string>
+    <string name="item_sido">서울특별시</string>
+    <string name="item_sigungu">중구</string>
+    <string name="item_zip_code">04562</string>
+</resources>
